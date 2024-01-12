@@ -18,6 +18,15 @@ ARLF-BFG is a Python-based reinforcement learning framework designed for automat
 - AI and machine learning research in varied environments.
 - Development experiments with OCR in reinforcement learning.
 
+## Development Philosophy: Rapid Deployment
+The primary goal of ARLF-BFG is to launch a functional version as quickly as possible. In line with this, we embrace the following principles:
+- **Pragmatic Approach**: Prioritize functionality over perfection. Cut corners where necessary, without compromising the core integrity of the framework.
+- **Leverage Existing Solutions**: Utilize existing packages, libraries, and code snippets extensively. Reinventing the wheel is not our objective.
+- **Iterative Development**: Release early and iterate. Initial versions may lack polish, but we aim for continuous improvement based on user feedback and testing.
+- **Open to Shortcuts**: We welcome any shortcuts, hacks, or unconventional methods that can accelerate development, provided they adhere to legal and ethical standards.
+
+Contributors are encouraged to keep this rapid deployment philosophy in mind. Our goal is to create a working prototype swiftly, setting the foundation for future refinement and enhancement.
+
 ## Contribution Guidelines
 Contributions are welcome for game configurations, algorithm enhancements, OCR improvements, and documentation updates. See our contributing document for more details.
 
