@@ -15,8 +15,16 @@ ARLF-BFG is a Python-based reinforcement learning framework designed for automat
 
 ## Usage Scenarios
 - Automating gameplay in browser or flash games.
-- AI and machine learning research in varied environments.
+- Low skill entry point for AI and machine learning research on games outside of AI Gym integrated games
 - Development experiments with OCR in reinforcement learning.
+  
+## Platform Compatibility
+Our development and compatibility efforts are prioritized as follows:
+1. **Ubuntu (Primary Focus)**: The framework is first and foremost developed for Ubuntu. This ensures compatibility with a wide range of Linux environments, which are often preferred in the AI and machine learning communities.
+2. **macOS (Secondary Focus)**: Post Ubuntu compatibility, we will focus on adapting the framework for macOS, ensuring it runs smoothly on Apple's operating systems.
+3. **Windows (Tertiary Focus)**: Windows compatibility is our third priority. Efforts to adapt and optimize the framework for Windows will follow after Ubuntu and macOS versions are stable and reliable.
+
+This prioritization allows us to concentrate our efforts effectively, catering first to platforms most commonly used in development and research, followed by broader user accessibility.
 
 ## Development Philosophy: Rapid Deployment
 The primary goal of ARLF-BFG is to launch a functional version as quickly as possible. In line with this, we embrace the following principles:
